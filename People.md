@@ -4,4 +4,4 @@
 
 Office: Willamette Hall 377
 
-Email: (maillto:hallinen@uoregon.edu) 
+Email: <hallinen@uoregon.edu> 
