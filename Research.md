@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research
+description: How do bacteria go with the flow? And what can we learn from it?
 ---
 
 How do bacteria go with the flow? And what can we learn from it?
