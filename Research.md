@@ -3,7 +3,6 @@ layout: default
 title: Research
 ---
 
-# Research Projects
 How do bacteria go with the flow? And what can we learn from it?
 
 **Bacteria in the Body:** Our work is interested in recapitulating physiological environments from the body in the lab with microfluidics so we can analyze the fluid dynamics and study the bacterial responses in these environments that we can now control. One particular flow environment of interest to us is the heart. Clinical reports note that bacterial infections in the heart, called endocarditis, can be very severe and often attack the heart valves. But we know from fluid dynamics that the valves would have the smallest cross sections and therefore lead to some of the highest shear rates and forces within the heart. So why would this be where bacteria are colonizing? 
