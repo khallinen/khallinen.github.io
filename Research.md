@@ -8,7 +8,7 @@ description: How do bacteria go with the flow? And what can we learn from it?
 
 Building off of Dr. Hallinen's postdoctoral work, our ongoing work is focused on increasing the complexity of our microfluidic environments and explore how different environmental factors (and the interplay of these factors), such as flow profiles, surface coatings, or geometries, drive bacterial behaviors. We also will dig into the genetic side as well, examining the responses to these different factors. 
 
-![_S. aureus_ in flow]({{ "/assets/images/my-photo.jpg" | relative_url }})
+![_S. aureus_ in flow]({{ "/assets/Images/SA_flow.jpg" | relative_url }})
 
 **Bacterial Shapes:** What is the impact of the different morphologies the bacteria form as they grow? We know individual bacterial species often have stereotyped shapes- cocci, rods, spirochetes- but as those different individual bacteria grow into 10s of cells, their nanocolony morphologies can vary. For example, the cocci of _S. aureus_ form clusters whereas the cocci of _E. faecalis_ form chains. 
 What might be the benefit of these intermediate morphologies and how might these morphologies impact the behaviors of bacteria in different environments, flow or otherwise? And can we find ways, genetic or otherwise, to alter these morphologies? 
@@ -16,7 +16,8 @@ What might be the benefit of these intermediate morphologies and how might these
 Example clusters/chains?
 
 **Bacterial Communities:** Bacteria are all around us and often have to compete with other strains or species for resources like space or nutrients. Initial work from Dr. Hallinen’s postdoc already has shown the different dynamics that can arise between mixed communities of _S. aureus_ and _P. aeruginosa_ by only changing the flow rate. Using our fluid flow environments, we want to continue to study the interactions between dynamic, mixed species populations as they colonize our channels and we introduce more complexities into their environments
-Example from paper- SA and PA in flow 
+
+![_S. aureus_ and _P. aeruginosa_ in flow]({{ "/assets/Images/SA_PA.jpg" | relative_url }})
 
 **Bacterial Dynamics Modeling:** In addition to our experimental work, we are interested in modeling the dynamics we see within our bacterial population and understanding the weight the different factors we tune in our experiments play into the dynamics we see. We do this through a variety of methods, like agent-based modeling or models of coupled partial differential equations and drawing from ideas and approaches in evolutionary game theory and stochastic processes. As our experiments increase in complexity, we also aim to increase the complexities of our model to gain a fuller picture of the interplay between the environment and the bacterial communities.
 
