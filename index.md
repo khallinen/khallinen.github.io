@@ -1,3 +1,3 @@
 ## Explore my work
-* [Read about my Research](./Research.html)
+* [Read about our Research](./Research.html)
 * [Meet the People](./People.html)
