@@ -1,0 +1,13 @@
+---
+---
+
+@import "jekyll-theme-cayman";
+
+.page-header {
+  background-image: url("https://khallinen.github.io/stack3-1x.png");
+  background-size: cover;
+  background-position: center;
+  /* Optional: adds a dark overlay so white text is readable */
+  background-color: rgba(0,0,0,0.5); 
+  background-blend-mode: overlay; 
+}
