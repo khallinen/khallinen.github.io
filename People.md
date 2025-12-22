@@ -1,3 +1,3 @@
 **Dr. Kelsey Hallinen**
 
-![Dr. Hallinen]({{ "/assets/Images/UOFacultyStaffHeadshots-DSCF2838.jpg" | relative_url }})
+![Dr. Hallinen]({{ "/assets/Images/UOFacultyStaffHeadshots-DSCF2838.jpg" | relative_url }}){: width ="300px"}
