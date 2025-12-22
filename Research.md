@@ -17,7 +17,7 @@ Example clusters/chains?
 
 **Bacterial Communities:** Bacteria are all around us and often have to compete with other strains or species for resources like space or nutrients. Initial work from Dr. Hallinen’s postdoc already has shown the different dynamics that can arise between mixed communities of _S. aureus_ and _P. aeruginosa_ by only changing the flow rate. Using our fluid flow environments, we want to continue to study the interactions between dynamic, mixed species populations as they colonize our channels and we introduce more complexities into their environments
 
-![_S. aureus_ and _P. aeruginosa_ in flow]({{ "/assets/Images/SA_PA.png" | relative_url }})
+![_S. aureus_ and _P. aeruginosa_ in flow]({{ "/assets/Images/SA_PA.png" | relative_url }}){: width="500px"}
 
 **Bacterial Dynamics Modeling:** In addition to our experimental work, we are interested in modeling the dynamics we see within our bacterial population and understanding the weight the different factors we tune in our experiments play into the dynamics we see. We do this through a variety of methods, like agent-based modeling or models of coupled partial differential equations and drawing from ideas and approaches in evolutionary game theory and stochastic processes. As our experiments increase in complexity, we also aim to increase the complexities of our model to gain a fuller picture of the interplay between the environment and the bacterial communities.
 
