@@ -8,7 +8,7 @@ description: How do bacteria go with the flow? And what can we learn from it?
 
 Building off of Dr. Hallinen's postdoctoral work, our ongoing work is focused on increasing the complexity of our microfluidic environments and explore how different environmental factors (and the interplay of these factors), such as flow profiles, surface coatings, or geometries, drive bacterial behaviors. We also will dig into the genetic side as well, examining the responses to these different factors. 
 
-Example from paper- flow videos?
+![_S. aureus_ in flow]({{ "/assets/images/my-photo.jpg" | relative_url }})
 
 **Bacterial Shapes:** What is the impact of the different morphologies the bacteria form as they grow? We know individual bacterial species often have stereotyped shapes- cocci, rods, spirochetes- but as those different individual bacteria grow into 10s of cells, their nanocolony morphologies can vary. For example, the cocci of _S. aureus_ form clusters whereas the cocci of _E. faecalis_ form chains. 
 What might be the benefit of these intermediate morphologies and how might these morphologies impact the behaviors of bacteria in different environments, flow or otherwise? And can we find ways, genetic or otherwise, to alter these morphologies? 
