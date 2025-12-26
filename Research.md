@@ -13,7 +13,7 @@ Building off of Dr. Hallinen's postdoctoral work, our ongoing work is focused on
 **Bacterial Shapes:** What is the impact of the different morphologies the bacteria form as they grow? We know individual bacterial species often have stereotyped shapes- cocci, rods, spirochetes- but as those different individual bacteria grow into 10s of cells, their nanocolony morphologies can vary. For example, the cocci of _S. aureus_ form clusters whereas the cocci of _E. faecalis_ form chains. 
 What might be the benefit of these intermediate morphologies and how might these morphologies impact the behaviors of bacteria in different environments, flow or otherwise? And can we find ways, genetic or otherwise, to alter these morphologies? 
 
-Example clusters/chains?
+![Chains_Clusters]({{ "/assets/Images/cluster_chain.png" | relative_url }}){: .center-image width="500px"}
 
 **Bacterial Communities:** Bacteria are all around us and often have to compete with other strains or species for resources like space or nutrients. Initial work from Dr. Hallinen’s postdoc already has shown the different dynamics that can arise between mixed communities of _S. aureus_ and _P. aeruginosa_ by only changing the flow rate. Using our fluid flow environments, we want to continue to study the interactions between dynamic, mixed species populations as they colonize our channels and we introduce more complexities into their environments
 
