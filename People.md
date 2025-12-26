@@ -1,3 +1,9 @@
+---
+layout: default
+title: People
+description: Who are we?
+---
+
 **Dr. Kelsey Hallinen**
 
 ![Dr. Hallinen]({{ "/assets/Images/UOFacultyStaffHeadshots-DSCF2838.jpg" | relative_url }}){: .align-left width="300px"}
