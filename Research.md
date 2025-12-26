@@ -15,6 +15,7 @@ What might be the benefit of these intermediate morphologies and how might these
 
 ![Chains_Clusters]({{ "/assets/Images/cluster_chain.png" | relative_url }}){: .center-image width="500px"}
 
+
 **Bacterial Communities:** Bacteria are all around us and often have to compete with other strains or species for resources like space or nutrients. Initial work from Dr. Hallinen’s postdoc already has shown the different dynamics that can arise between mixed communities of _S. aureus_ and _P. aeruginosa_ by only changing the flow rate. Using our fluid flow environments, we want to continue to study the interactions between dynamic, mixed species populations as they colonize our channels and we introduce more complexities into their environments
 
 ![_S. aureus_ and _P. aeruginosa_ in flow]({{ "/assets/Images/SA_PA.png" | relative_url }}){: .center-image width="500px"}
