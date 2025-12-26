@@ -20,6 +20,7 @@ What might be the benefit of these intermediate morphologies and how might these
 
 ![_S. aureus_ and _P. aeruginosa_ in flow]({{ "/assets/Images/SA_PA.png" | relative_url }}){: .center-image width="500px"}
 
+
 **Bacterial Dynamics Modeling:** In addition to our experimental work, we are interested in modeling the dynamics we see within our bacterial population and understanding the weight the different factors we tune in our experiments play into the dynamics we see. We do this through a variety of methods, like agent-based modeling or models of coupled partial differential equations and drawing from ideas and approaches in evolutionary game theory and stochastic processes. As our experiments increase in complexity, we also aim to increase the complexities of our model to gain a fuller picture of the interplay between the environment and the bacterial communities.
 
 
