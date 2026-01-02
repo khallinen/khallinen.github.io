@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Publications
-description: Check Dr. Hallinen's google scholar for most up-to-date list
+description: Check Dr. Hallinen's Google scholar for most up-to-date list
 ---
 
 **Hallinen, K.M.**, Bodine, S.P., Stone, H.A., Muir, T.W, Wingreen, N.S., and Gitai, Z. [_Bacterial species with different nanocolony morphologies have distinct flow-dependent colonization behaviors_](https://www.pnas.org/doi/abs/10.1073/pnas.2419899122), Proc. Natl. Acad. Sci., 122 (7) 2419899122, (2025).
