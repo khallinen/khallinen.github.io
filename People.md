@@ -3,7 +3,6 @@ layout: default
 title: People
 description: Who are we?
 ---
-<h3>Faculty</h3>
 
 <div class="person-card">
   <img class="person-img" src="{{ '/assets/Images/UOFacultyStaffHeadshots-DSCF2838.jpg' | relative_url }}" alt="Dr. Hallinen">
