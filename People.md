@@ -10,7 +10,7 @@ description: Who are we?
   <div class="person-info">
     <h3>Dr. Kelsey Hallinen</h3>
     <p>
-      Assistant Professor, Physics
+      Assistant Professor, Physics <br>
       Office: Willamette Hall 377<br>
       Email: <a href="mailto:hallinen@uoregon.edu">hallinen@uoregon.edu</a>
     </p>
