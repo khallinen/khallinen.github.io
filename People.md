@@ -44,7 +44,7 @@ description: Who are we?
 <h3>Undergraduate Students</h3>
 
 <div class="person-card">
-  <img class="person-img" src="{{ '/assets/Images/Anna_LabWebsite.jpg' | relative_url }}" alt="Anna">
+  <img class="person-img" src="{{ '/assets/Images/Anna_LabWebsite.jpeg' | relative_url }}" alt="Anna">
   <div class="person-info">
     <h3>Anna McFarlane</h3>
     <p>
