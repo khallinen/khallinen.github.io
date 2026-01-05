@@ -3,37 +3,6 @@ layout: default
 title: People
 description: Who are we?
 ---
-
-<style>
-  .person-card {
-    display: flex; /* Puts image and text side-by-side */
-    align-items: center; /* Vertically centers the text */
-    gap: 20px; /* Space between image and text */
-    margin-bottom: 30px; /* Space between people */
-    background: #f9f9f9; /* Optional: light background card */
-    padding: 15px; /* Optional: padding inside card */
-    border-radius: 8px; /* Optional: rounded corners */
-  }
-
-  .person-img {
-    width: 200px; /* Force consistent image size */
-    height: 200px;
-    object-fit: cover; /* Ensures faces aren't squashed */
-    border-radius: 50%; /* Optional: Makes images circular */
-    flex-shrink: 0; /* Prevents image from shrinking */
-  }
-
-  .person-info h3 {
-    margin-top: 0;
-    margin-bottom: 5px;
-  }
-
-  /* Mobile: Stack them vertically on phones */
-  @media (max-width: 600px) {
-    .person-card { flex-direction: column; text-align: center; }
-  }
-</style>
-
 <h3>Faculty</h3>
 
 <div class="person-card">
