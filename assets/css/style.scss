@@ -33,7 +33,6 @@ nav a {
 }
 
 
-<style>
   .person-card {
     display: flex; /* Puts image and text side-by-side */
     align-items: center; /* Vertically centers the text */
@@ -61,5 +60,4 @@ nav a {
   @media (max-width: 600px) {
     .person-card { flex-direction: column; text-align: center; }
   }
-</style>
-}
+
