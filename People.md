@@ -31,13 +31,13 @@ description: Who are we?
 </div>
 
 <div class="person-card">
-  <img class="person-img" src="{{ '/assets/Images/Meg_LabWebsite.jpg' | relative_url }}" alt="Meg">
+  <img class="person-img" src="{{ '/assets/Images/Alex_LabWebsite.jpg' | relative_url }}" alt="Alex">
   <div class="person-info">
-    <h3>Meg Alberding</h3>
+    <h3>Alex Goodrich</h3>
     <p>
-      PhD Student, OIMB<br>
-      Rotation Student<br>
-      Email: <a href="mailto:malb@uoregon.edu">malb@uoregon.edu</a>
+      PhD Student, IMB<br>
+      Rotation Student, Spring 2026<br>
+      Email: <a href="mailto:agood@uoregon.edu">agood@uoregon.edu</a>
     </p>
   </div>
 </div>
@@ -51,6 +51,20 @@ description: Who are we?
     <p>
       3rd year student, Human Physiology<br>
       Joint with the Parthasarathy Lab
+    </p>
+  </div>
+</div>
+
+<h3>Lab Alumni and Friends</h3>
+
+<div class="person-card">
+  <img class="person-img" src="{{ '/assets/Images/Meg_LabWebsite.jpg' | relative_url }}" alt="Meg">
+  <div class="person-info">
+    <h3>Meg Alberding</h3>
+    <p>
+      PhD Student, OIMB<br>
+      Rotation Student, Winter 2026<br>
+      Email: <a href="mailto:malb@uoregon.edu">malb@uoregon.edu</a>
     </p>
   </div>
 </div>
