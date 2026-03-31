@@ -31,7 +31,7 @@ description: Who are we?
 </div>
 
 <div class="person-card">
-  <img class="person-img" src="{{ '/assets/Images/Alex_LabWebsite.jpg' | relative_url }}" alt="Alex">
+  <img class="person-img" src="{{ '/assets/Images/Alex_LabWebsite.jpeg' | relative_url }}" alt="Alex">
   <div class="person-info">
     <h3>Alex Goodrich</h3>
     <p>
