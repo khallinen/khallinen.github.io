@@ -55,6 +55,17 @@ description: Who are we?
   </div>
 </div>
 
+<div class="person-card">
+  <img class="person-img" src="{{ '/assets/Images/Tiana_LabWebsite.jpeg' | relative_url }}" alt="Tiana">
+  <div class="person-info">
+    <h3>Tiana Okuma</h3>
+    <p>
+      4th year student, Physics<br>
+      Email: <a href="mailto:tokuma@uoregon.edu">tokuma@uoregon.edu</a>
+    </p>
+  </div>
+</div>
+
 <h3>Lab Alumni and Friends</h3>
 
 <div class="person-card">
