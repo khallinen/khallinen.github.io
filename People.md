@@ -6,7 +6,7 @@ description: Who are we?
 <h3>Principle Investigator</h3>
 
 <div class="person-card">
-  <img class="person-img" src="{{ '/assets/Images/UOFacultyStaffHeadshots-DSCF2838.jpg' | relative_url }}" alt="Dr. Hallinen">
+  <img class="person-img" src="{{ '/assets/Images/Kelsey_LabWesbite.jpg' | relative_url }}" alt="Dr. Hallinen">
   <div class="person-info">
     <h3>Dr. Kelsey Hallinen</h3>
     <p>
