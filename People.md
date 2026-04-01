@@ -56,7 +56,7 @@ description: Who are we?
 </div>
 
 <div class="person-card">
-  <img class="person-img" src="{{ '/assets/Images/Tiana_LabWebsite.jpeg' | relative_url }}" alt="Tiana">
+  <img class="person-img" src="{{ '/assets/Images/Tiana_LabWebsite.JPG' | relative_url }}" alt="Tiana">
   <div class="person-info">
     <h3>Tiana Okuma</h3>
     <p>
