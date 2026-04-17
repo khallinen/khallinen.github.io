@@ -20,17 +20,6 @@ description: Who are we?
 <h3>Graduate Students</h3>
 
 <div class="person-card">
-  <img class="person-img" src="{{ '/assets/Images/Hudson_LabWebsite.jpg' | relative_url }}" alt="Hudson">
-  <div class="person-info">
-    <h3>Hudson Lazzara</h3>
-    <p>
-      PhD Student, Physics<br>
-      Email: <a href="mailto:hlazzara@uoregon.edu">hlazzara@uoregon.edu</a>
-    </p>
-  </div>
-</div>
-
-<div class="person-card">
   <img class="person-img" src="{{ '/assets/Images/Alex_LabWebsite.jpeg' | relative_url }}" alt="Alex">
   <div class="person-info">
     <h3>Alex Goodrich</h3>
@@ -76,6 +65,17 @@ description: Who are we?
       PhD Student, OIMB<br>
       Rotation Student, Winter 2026<br>
       Email: <a href="mailto:malb@uoregon.edu">malb@uoregon.edu</a>
+    </p>
+  </div>
+</div>
+
+<div class="person-card">
+  <img class="person-img" src="{{ '/assets/Images/Hudson_LabWebsite.jpg' | relative_url }}" alt="Hudson">
+  <div class="person-info">
+    <h3>Hudson Lazzara</h3>
+    <p>
+      PhD Student, Physics<br>
+      Email: <a href="mailto:hlazzara@uoregon.edu">hlazzara@uoregon.edu</a>
     </p>
   </div>
 </div>
