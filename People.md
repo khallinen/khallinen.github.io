@@ -25,7 +25,6 @@ description: Who are we?
     <h3>Alex Goodrich</h3>
     <p>
       PhD Student, IMB<br>
-      Rotation Student, Spring 2026<br>
       Email: <a href="mailto:agood@uoregon.edu">agood@uoregon.edu</a>
     </p>
   </div>
