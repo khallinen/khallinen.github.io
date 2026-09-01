@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Publications
-description: Check Dr. Hallinen's Google scholar for most up-to-date list
+description: Check Dr. Hallinen's [Google scholar](https://scholar.google.com/citations?user=QIe3z5YAAAAJ&hl=en) for most up-to-date list
 ---
 
 Martins, G.F., Guardiola-Flores, K.A., Zaman, L., Horowitz, J.M., **Hallinen, K.M.**^, Wood, K. [Cooperative antibiotic response in coupled biofilm and planktonic E. faecalis communities](https://elifesciences.org/reviewed-preprints/111949v1) eLife, 15:RP111949, (2026).
