@@ -4,6 +4,9 @@ title: Publications
 description: Check Dr. Hallinen's Google scholar for most up-to-date list
 ---
 
+Martins, G.F., Guardiola-Flores, K.A., Zaman, L., Horowitz, J.M., **Hallinen, K.M.**^, Wood, K. [Cooperative antibiotic response in coupled biofilm and planktonic E. faecalis communities](https://elifesciences.org/reviewed-preprints/111949v1) eLife, 15:RP111949, (2026).
+^Corresponding Author, Reviewed Preprint
+
 **Hallinen, K.M.**, Bodine, S.P., Stone, H.A., Muir, T.W, Wingreen, N.S., and Gitai, Z. [_Bacterial species with different nanocolony morphologies have distinct flow-dependent colonization behaviors_](https://www.pnas.org/doi/abs/10.1073/pnas.2419899122), Proc. Natl. Acad. Sci., 122 (7) 2419899122, (2025).
 
 **Hallinen, K.M.**#, Dempsey, R.#, Scholz, M.#, Yu, X., Linder, A., Randi, F., Sharma, A., Shaevitz, J. W., and Leifer, A. M. [_Decoding locomotion from population neural activity in moving C. elegans_](https://elifesciences.org/articles/66135), eLife, 10 e66135, (2021). 
