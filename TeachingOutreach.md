@@ -12,6 +12,7 @@ description: See below for classes and outreach activities!
 | **PHYS 352: Thermal Physics and Statistical Mechanics I** | Winter 2026 |
 
 _Prior Teaching_
+
 | School | Course |
 |---|---|
 | **Princeton University** | PHY 101: Introductory Physics I |
