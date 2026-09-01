@@ -17,7 +17,8 @@ _Prior Teaching_
 |---|---|
 | **Princeton University** | PHY 101: Introductory Physics I |
 
-**Outreach and Service**
+
+**Outreach and Service**:
 
 | Organization | Activities |
 |---|---|
