@@ -11,7 +11,11 @@ description: See below for classes and outreach activities!
 | **PHYS 410/510: Image Analysis with Applications in Physics** | Fall 2025, Fall 2026 |
 | **PHYS 352: Thermal Physics and Statistical Mechanics I** | Winter 2026 |
 
-**Outreach and Service**:
+_Prior Teaching_
+| School | Course |
+|---|---|
+| **Princeton University** | PHY 101: Introductory Physics I |
+
 
 | Organization | Activities |
 |---|---|
