@@ -5,12 +5,14 @@ description: See below for classes and outreach activities!
 ---
 
 **Teaching**:
+
 | Course | Term |
 |---|---|
 | **PHYS 410/510: Image Analysis with Applications in Physics** | Fall 2025, Fall 2026 |
 | **PHYS 352: Thermal Physics and Statistical Mechanics I** | Winter 2026 |
 
 **Outreach and Service**:
+
 | Organization | Activities |
 |---|---|
 | **University of Oregon** | **2026** — Activity Leader, Student Academy to Inspire Learning ([SAIL](https://fyp.uoregon.edu/sail))<br>**2026** — Physics Demo Volunteer, Oregon Country Fair<br>**2026** — Physics Poster Judge, UO Undergraduate Research Symposium |
