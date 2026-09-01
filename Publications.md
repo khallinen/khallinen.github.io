@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Publications
+description:
 ---
 Check Dr. Hallinen's [Google scholar](https://scholar.google.com/citations?user=QIe3z5YAAAAJ&hl=en) for the most up-to-date list.
 
