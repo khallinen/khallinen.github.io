@@ -61,3 +61,29 @@ nav a {
     .person-card { flex-direction: column; text-align: center; }
   }
 
+
+.image-row {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-row img {
+  width: 45%;
+  height: 300px;
+  object-fit: cover;
+}
+
+/* On phones, stack the images */
+@media (max-width: 600px) {
+  .image-row {
+    flex-direction: column;
+  }
+
+  .image-row img {
+    width: 100%;
+    height: auto;
+  }
+}
