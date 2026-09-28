@@ -4,6 +4,8 @@ In particular, we are interested in the impact of fluid flow. Bacteria experienc
 
 Our lab is based in the Physics department at the University of Oregon and we are part of UO’s Materials Science Institute and the Institute of Molecular Biology 
 
+![Lab photo](assets/Images/Group_LabWebsite.png)
 
+![Tiana's Poster](assets/Images/TianaPoster_LabWebsite.png)
 
 
