@@ -15,7 +15,7 @@ Fernandes Martins, G., Guardiola-Flores, K.A., Zaman, L., Horowitz, J.M., **Hall
 **Hallinen, K.M.**#, Dempsey, R.#, Scholz, M.#, Yu, X., Linder, A., Randi, F., Sharma, A., Shaevitz, J. W., and Leifer, A. M. [_Decoding locomotion from population neural activity in moving C. elegans_](https://elifesciences.org/articles/66135), eLife, 10 e66135, (2021). 
 #Co-first authors
 
-**Hallinen, K.M.**#, Karslake, J.# and Wood, K., [_Delayed antibiotic exposure induces population collapse in enterococcal communities with drug-resistant sub-populations__](https://elifesciences.org/articles/52813), eLife, 9 e52813, (2020).
+**Hallinen, K.M.**#, Karslake, J.# and Wood, K., [_Delayed antibiotic exposure induces population collapse in enterococcal communities with drug-resistant sub-populations_](https://elifesciences.org/articles/52813), eLife, 9 e52813, (2020).
 #Co-first authors
 
 **Hallinen, K.M.**, Guardiola, K. and Wood, K., [_Fluorescent reporter plasmids for single-cell and bulk-level composition assays in E. faecalis_](https://elifesciences.org/articles/52813),PLoS One, 15 (5), e0232539, (2020).
